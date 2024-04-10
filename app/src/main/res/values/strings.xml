@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GboxAssignment</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="open_gallery">Open Gallery</string>
+</resources>
